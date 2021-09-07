@@ -1,0 +1,35 @@
+
+What is an Object?
+=======================
+I will not define about object, rather I can say, whatever you see through your eyes is an object.
+To be specific:
+Laptop : Its an object.
+         Shape, Structure, name, identity, occupy some space, Have some functions.
+		 
+
+To understand Object we have to understand Structure ( Class )
+		 
+
+Concepts : Inheritance, Abstraction, Encapsulation and Polymorphism
+=====================================================================
+Inheritance: Extending some behavior, properties from Super Class.
+
+Abstraction: Abstraction is the concept of exposing only the required essential characteristics and behavior with respect to a context.
+https://javapapers.com/core-java/java-abstraction/
+
+Encapsulation: Encapsulation is the ability to package data, related behavior in an object bundle and control/restrict access to them (both data and function) from other objects.
+
+https://javapapers.com/core-java/java-encapsulation/
+
+When we design a class in OOP, the first principle we should have in mind is encapsulation. Group the related data and its behavior in a bucket. Primary benefit of encapsulation is, better maintainability.
+
+So data hiding is fairly straight forward. How about bundling data and method. This is critical. We should understand well about the business domain and based on that design the class and group attributes and its methods together. This process is key in encapsulation.
+
+https://javapapers.com/core-java/java-polymorphism/
+
+============================================================================
+
+
+
+
+
